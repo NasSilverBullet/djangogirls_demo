@@ -1,1 +1,1 @@
-web: gunicorn mysite.wsgi
+web: gunicorn YukihiroTaniguchi-djangogirls2.wsgi
